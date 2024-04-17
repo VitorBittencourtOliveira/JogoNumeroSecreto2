@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Jogo do Número Secreto</h1>
 
 <h2>🏷️ Sobre</h2>
 <p>Projeto feito no curso da Alura "Lógica de programação: explore funções e listas".</p>
